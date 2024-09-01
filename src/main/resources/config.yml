@@ -1,0 +1,12 @@
+mysql:
+  host: localhost
+  port: 3306
+  database: database
+  user: root
+  password: ''
+
+message:
+  store: 'epicraft.eu/boutique'
+  website: 'epicraft.eu'
+  discord: 'discord.gg/epicraft'
+  twitter: 'twitter.com/epicraft'
